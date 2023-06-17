@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.a73c91b1.css",
-    "main.js": "/static/js/main.f891b15e.js",
-    "index.html": "/index.html",
-    "main.a73c91b1.css.map": "/static/css/main.a73c91b1.css.map",
-    "main.f891b15e.js.map": "/static/js/main.f891b15e.js.map"
+    "main.css": "/form-validation/static/css/main.a73c91b1.css",
+    "main.js": "/form-validation/static/js/main.f891b15e.js",
+    "index.html": "/form-validation/index.html",
+    "main.a73c91b1.css.map": "/form-validation/static/css/main.a73c91b1.css.map",
+    "main.f891b15e.js.map": "/form-validation/static/js/main.f891b15e.js.map"
   },
   "entrypoints": [
     "static/css/main.a73c91b1.css",
